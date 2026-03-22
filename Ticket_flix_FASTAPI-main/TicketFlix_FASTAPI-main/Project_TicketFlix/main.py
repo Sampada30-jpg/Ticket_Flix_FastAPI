@@ -3,7 +3,7 @@ from pydantic import BaseModel, Field
 from typing import Optional
 import math
 
-app = FastAPI(title="CineStar Booking", description="Movie Ticket Booking System")
+app = FastAPI(title="Ticket_FLIX Booking", description="Movie Ticket Booking System")
 
 # ─────────────────────────────────────────────
 #  IN-MEMORY DATA STORE
