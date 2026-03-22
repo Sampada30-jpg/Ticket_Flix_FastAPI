@@ -1,4 +1,4 @@
-# 🎬 CineStar — Movie Ticket Booking API
+# 🎬 Ticket_Flix— Movie Ticket Booking API
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
